@@ -1,0 +1,11 @@
+﻿@model Premium.Data.Models.Car
+
+
+<div class="col-lg-4">
+    <img class="img-thumbnail" src="@Model.img" alt="@Model.name" />
+    <h2>Modelul: @Model.name</h2>
+    <p>@Model.shortDesc</p>
+    <p>Pretul: @Model.price.ToString("c")</p>
+    <p><a class="btn btn-warning" asp-controller="PremiumCart" asp-action="AddToCart" asp-route-id="@Model.id">Broneaza</a></p>
+    
+</div>

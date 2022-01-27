@@ -1,0 +1,785 @@
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\appsettings.Development.json
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\appsettings.json
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.exe
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.deps.json
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.json
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.dev.json
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ref\Shop.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.pdb
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.csprojAssemblyReference.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.xml
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\scopedcss\bundle\Shop.styles.css
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.dll
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\ref\Shop.dll
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.pdb
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Humanizer.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CopyComplete
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.Views.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.Views.pdb
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.input.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.output.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.RazorCoreGenerate.cache
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.Views.pdb
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\ALLCars.cshtml.g.cs
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\EntityFramework.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.CodeDom.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\dbsettings.json
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Json.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\ShopCart\Index.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Drill.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Drill.Integration.Web.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Shop.StaticWebAssets.xml
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.Views.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Anul 2\Shop\Shop\bin\Debug\net5.0\Mvc.Grid.Core.dll
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Index.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\dbsettings.json
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.StaticWebAssets.xml
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.exe
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.deps.json
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.json
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.dev.json
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ref\Shop.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.Views.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.Views.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.Views.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Drill.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Drill.Integration.Web.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Json.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Mvc.Grid.Core.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.csprojAssemblyReference.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.xml
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\scopedcss\bundle\Shop.styles.css
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.input.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.output.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorCoreGenerate.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\ALLCars.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.Views.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CopyComplete
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\ref\Shop.dll
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.pdb
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache
+C:\Users\toha_\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Edit.cshtml.g.cs
+D:\Anul 2\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\dbsettings.json
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.StaticWebAssets.xml
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.exe
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.deps.json
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.json
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.dev.json
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ref\Shop.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.Views.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Shop.Views.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.Views.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Drill.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Drill.Integration.Web.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Json.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\Mvc.Grid.Core.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.csprojAssemblyReference.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.xml
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\scopedcss\bundle\Shop.styles.css
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.input.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.output.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorCoreGenerate.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\ALLCars.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.Views.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CopyComplete
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\ref\Shop.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.csprojAssemblyReference.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.xml
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\scopedcss\bundle\Shop.styles.css
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.TagHelpers.input.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.TagHelpers.output.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.RazorCoreGenerate.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Shared\ALLCars.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\ref\Shop.dll
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Premium\obj\Debug\net5.0\Shop.pdb
+C:\Users\linei\OneDrive - Technical University of Moldova\Рабочий стол\Shop\Shop\obj\Debug\net5.0\Razor\Views\PremiumCart\Index.cshtml.g.cs
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\dbsettings.json
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.StaticWebAssets.xml
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.exe
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.deps.json
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.json
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.dev.json
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ref\Shop.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.pdb
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.Views.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Shop.Views.pdb
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.Views.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\DotNetEd.CoreAdmin.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Drill.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Drill.Integration.Web.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Json.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\Mvc.Grid.Core.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\linei\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.csproj.AssemblyReference.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.xml
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\scopedcss\bundle\Shop.styles.css
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.input.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.output.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.RazorCoreGenerate.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Edit.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\PremiumCart\Index.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\ALLCars.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.Views.pdb
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CopyComplete
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.dll
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\ref\Shop.dll
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.pdb
+C:\Users\linei\Shop\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache

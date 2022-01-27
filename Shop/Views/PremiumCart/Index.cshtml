@@ -1,0 +1,13 @@
+﻿@model PremiumCartViewModel
+<div class="container">
+    @foreach (var el in Model.premiumCart.listPremiumCarItems)
+    {
+        <div class="alert alert-warning mt-3">
+            <b>Masina:</b> @el.car.name<br />
+            <b>Pretul:</b> @el.car.price.ToString("")
+
+        </div>
+    }
+    <hr />
+    <a class="btn btn-danger" asp-controller="Order" asp-action="Checkout">Broneaza</a>
+</div>

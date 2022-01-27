@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Premium TAXI</title>
+    <link rel="icon" href="favicon.ico" type="images/x-icon">
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/bootstrap.min.css" rel=" stylesheet" type="text/css" />
+    <link href="~/css/style.css" rel=" stylesheet" type="text/css" />
+</head>
+
+<body>
+     <header>
+          <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+               <div class="container-fluid">
+                    <a class="navbar-brand" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Yandex GO</font></font></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Переключить навигацию">
+                         <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
+                        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                            <li class="nav-item active">
+                                <a class="nav-link" aria-current="page" asp-controller="Home" asp-action="Index"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Cars/List"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Toate Masinile</font></font></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Cars/List/electro"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Masini hibrid</font></font></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Cars/List/fuel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Masini clasice</font></font></a>
+                            </li>
+                            <li class="nav-item active">
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <a class="nav-link" aria-current="page" asp-controller="Auth" asp-action="Logout"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exit to Admin</font></font></a>
+                                    <a class="nav-link" href="/coreadmin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modifica</font></font></a>
+                                }
+                                else
+                                {
+                                    <a class="nav-link" href="/coreadmin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admin</font></font></a>
+
+                                }
+                            </li>
+                            
+
+                            
+
+
+
+                        </ul>
+                        
+                    </div>
+               </div>
+          </nav>
+     </header>
+
+     <div class="container mt-5">
+          @RenderBody()
+     </div>
+     <footer class="container">
+          <p class="float-end"><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sus</font></font></a></p>
+          <p>SRL &copy;  "TRIO-AUTO-TRANS" | Design by <a href="http://w3layouts.com/">W3layouts</a> </p>
+     </footer>
+     <script src="~/js/bootstrap.min.js"></script>
+</body>
+</html>
